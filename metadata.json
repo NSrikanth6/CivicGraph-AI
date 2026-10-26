@@ -1,0 +1,6 @@
+{
+  "name": "CivicGraph AI",
+  "description": "Graph-based civic issue connectivity and community analysis platform for municipal issue tracking, topology discovery, and hotspot detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
